@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">D乛Ark</string>
+    <string name="wel">Welcome</string>
+    <string name="back">Back</string>
+    <string name="Donthaveac">Don\'t have account?</string>
+    <string name="signin">Sign In</string>
+    <string name="password">Enter Password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="email">Enter Email</string>
+    <string name="about">About Update</string>
+    <string name="version">V2.0.1</string>
+    <string name="about2">1.Some bugs fixed</string>
+    <string name="update">Update</string>
+    <string name="signup">Create an Account</string>
+    <string name="phone">Enter Phone</string>
+    <string name="signup_btn">SIGN UP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_edit">Edit Profile</string>
+    <string name="log_out">Log out</string>
+    <string name="share">Share</string>
+    <string name="Developer_contact">Developer contact</string>
+    <string name="history">Account</string>
+    <string name="get_in_touch">Get in touch</string>
+    <string name="enter_name">Name</string>
+    <string name="enter_email">Email</string>
+    <string name="msg">Message...</string>
+    <string name="send">Send</string>
+    <string name="follow">Follow us</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="enter_bio">Bio</string>
+    <string name="kills">4000</string>
+    <string name="position">1</string>
+    <string name="account">Account</string>
+    <string name="amount">Total Amount</string>
+    <string name="amountval">100</string>
+    <string name="AddMoney">Add Money</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="Enteramount">Enter Amount</string>
+    <string name="Enter_username">Enter Username</string>
+    <string name="enter">Enter</string>
+    <string name="Roomid">Room ID</string>
+    <string name="Roompassword">Password</string>
+    <string name="copy">Copy</string>
+    <string name="Enterupi">Enter Upi ID</string>
+</resources>
